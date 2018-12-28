@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj, traingle_opengl_blue.vcxproj, traingle_opengl.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  source3.cpp
+c:\users\user\source\repos\engine_math\engine_math\degree_radian.h(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\engine_math\engine_math\degree_radian.h(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\source\repos\render_engine\project2\render_engine.h(149): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\render_engine\project2\render_engine.h(152): warning C4244: 'argument': conversion from 'float' to 'GLsizeiptr', possible loss of data
+c:\users\user\source\repos\render_engine\project2\source3.cpp(169): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\User\source\repos\render_engine\Debug\traingle_opengl_mixed.exe
